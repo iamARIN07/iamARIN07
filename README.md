@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <h1 align="center">Welcome 👋, This is Arin Bose</h1>
 <h3 align="center">The hardworking and time managing Data Scientist</h3>
 
